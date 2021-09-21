@@ -1,6 +1,6 @@
 ## Description
 
-Hotel-app backend app
+Hotel-app backend 
 
 Use the commands from the root folder
 ## Installation
